@@ -1,5 +1,10 @@
 // Soldier
-function Soldier() {}
+//attack() method
+function Soldier(health,strength) {
+
+}
+
+
 
 // Viking
 function Viking() {}
